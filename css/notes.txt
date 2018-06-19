@@ -1,0 +1,33 @@
+ search engine optimization
+meta helps to browse, it is machine parsable , keywords are given to search, it 
+fetch the info as sco(by giving keywords or author) 
+http meta---- keep refreshin the pages like ipl website
+description 1) sco 2) m/c parsable 3) screen resolution 4)fetch content
+5)for google understanding
+
+
+eg.  <meta name="keyword" content="java, qspiders, python"
+eg. <meta name="author" content="pink>
+    <meta http-equiv="refresh" content="1">keep refreshing
+     the page in every 1sec
+    <meta name="descriptions" content="save content from google so 
+    that it can be sho while searchin">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <meta charset="UTF-8">  utf is a binary code computer can understand
+ utf8 is converting normal code to m/c code
+kb-mb-gb-tb-pb(peta byte)-hbs
+ hb hexa bytes
+-->
+
+
+<!--br is empty elemnt 
+diff bet br and hr- hr gives underline br dont but both r for linebreak
+-->
+
+
+<!--section fron html5 and div from html4 both are same
+strucural elements div, span
+diff bet div n span-- both are strucural elemnnt 
+div- it is block level elemnt(take full width)
+span- inline elemnt(dont take full width it take elemnt  )
+-->

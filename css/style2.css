@@ -1,0 +1,13 @@
+#header_block{
+    background: rgb(69, 69, 211);
+}
+
+body{
+    margin: 0px;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    
+}

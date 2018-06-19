@@ -1,0 +1,64 @@
+body{
+  margin: 0px;  
+}
+
+#header{
+ height: 34px;
+  background-color: #2874f0;
+  padding: 10px;
+}
+#container{
+  width: 90%;
+  margin: 0 auto; 
+}
+.logo_block {
+   width: 13%;
+    float: left;
+}
+
+.search_block{
+  width: 60%;
+  float: left;
+  }
+
+.login_block{
+  width: 27%;
+  float: left;
+}
+
+input.search{
+width: 65%;
+font-size: 14px;
+border: 0 none;
+outline: 0 none;
+border-radius: 2px 0 0 2px;
+height: 36px;
+padding: 1 16px;
+}
+span .fa-search{
+  border: 2px solid#fff;
+  border-left: 2px solid #f1f3f6;
+  border-radius: 0 2px 2px 0;
+  height: 31px;
+  cursor: pointer;
+  padding-top: 4px;
+  background-color: #fff;
+  padding: 0px 11px 1px 11px;
+  font-size: 20px;
+  color: rgb(40, 116, 241);
+  line-height: 30px;
+}
+
+.login_block a
+{
+   letter-spacing: 1px;
+   margin: 10px;
+   padding: 10px;
+   font-weight: bolder;
+   font-size: 16px;
+   color: #fff; 
+   line-height: 33px;
+   text-decoration: none;
+   text-transform: capitalize;
+}
+  
